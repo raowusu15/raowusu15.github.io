@@ -1,0 +1,366 @@
+{
+  "_comment": "Albums render top to bottom, ordered to match the CV. Photos live in assets/img/.",
+  "albums": [
+    {
+      "title": "Research",
+      "note": "Global Health and Infectious Diseases AI team, Kumasi Centre for Collaborative Research.",
+      "groups": [
+        {
+          "label": "KCCR",
+          "photos": [
+            {
+              "file": "lab-ghid-team.jpg",
+              "caption": "The GHID AI research team at KCCR"
+            },
+            {
+              "file": "lab-progress-meeting.jpg",
+              "caption": "Research progress report meeting"
+            },
+            {
+              "file": "research-cadd.jpg",
+              "caption": "Protein–ligand interaction analysis, computer-aided drug discovery"
+            },
+            {
+              "file": "research-imaging.jpg",
+              "caption": "Segmentation architecture, medical imaging research"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Research training",
+      "note": "",
+      "groups": [
+        {
+          "label": "2026",
+          "photos": [
+            {
+              "file": "training-insilico-cert.jpg",
+              "caption": "Certificate — The InSilico Lab, Computer-Aided Drug Design"
+            },
+            {
+              "file": "training-spark.jpg",
+              "caption": "Spark Academy Imaging Research Programme"
+            },
+            {
+              "file": "training-spark-hackathon.jpg",
+              "caption": "Spark Academy multi-project hackathon team"
+            },
+            {
+              "file": "training-imagine.jpg",
+              "caption": "IMAGINE Summer School — Imaging without Borders"
+            },
+            {
+              "file": "pub-mirasol-submission.jpg",
+              "caption": "MICCAI 2026 MIRASOL Workshop submission"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "note": "Undergraduate thesis: a low-cost portable wireless digital stethoscope for clinical use in Ghana.",
+      "groups": [
+        {
+          "label": "Digital stethoscope",
+          "photos": [
+            {
+              "file": "fyp-stethoscope-hardware.jpg",
+              "caption": "The completed prototype"
+            },
+            {
+              "file": "fyp-stethoscope-build.jpg",
+              "caption": "Building phase"
+            },
+            {
+              "file": "fyp-stethoscope-software.jpg",
+              "caption": "Companion software"
+            },
+            {
+              "file": "fyp-stethoscope-defence.jpg",
+              "caption": "Project defence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Professional experience",
+      "note": "Teaching assistantship at KNUST and hospital biomedical engineering internships.",
+      "groups": [
+        {
+          "label": "Teaching assistantship",
+          "photos": [
+            {
+              "file": "ta-quiz-judge.jpg",
+              "caption": "Serving as a quiz judge"
+            },
+            {
+              "file": "ta-field-trip.jpg",
+              "caption": "Departmental field trip"
+            }
+          ]
+        },
+        {
+          "label": "Hospital internships",
+          "photos": [
+            {
+              "file": "intern-1.jpg",
+              "caption": "Biomedical engineering internship"
+            },
+            {
+              "file": "intern-2.jpg",
+              "caption": "Medical equipment maintenance"
+            },
+            {
+              "file": "intern-3.jpg",
+              "caption": "Equipment inspection and troubleshooting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Conferences",
+      "note": "",
+      "groups": [
+        {
+          "label": "Frontiers in Optics + Laser Science, Denver, Colorado — October 2025",
+          "photos": [
+            {
+              "file": "conf-optica-1.jpg",
+              "caption": "Frontiers in Optics, Denver"
+            },
+            {
+              "file": "conf-optica-2.jpg",
+              "caption": "Frontiers in Optics, Denver"
+            },
+            {
+              "file": "conf-optica-3.jpg",
+              "caption": "Frontiers in Optics, Denver"
+            },
+            {
+              "file": "conf-optica-4.jpg",
+              "caption": "Frontiers in Optics, Denver"
+            },
+            {
+              "file": "conf-optica-5.jpg",
+              "caption": "Frontiers in Optics, Denver"
+            },
+            {
+              "file": "conf-optica-6.jpg",
+              "caption": "Frontiers in Optics, Denver"
+            },
+            {
+              "file": "conf-optica-7.jpg",
+              "caption": "Frontiers in Optics, Denver"
+            }
+          ]
+        },
+        {
+          "label": "Noguchi Annual Research Meeting, Accra — November 2025",
+          "photos": [
+            {
+              "file": "conf-noguchi-poster.jpg",
+              "caption": "Poster presentation at the Noguchi ARM"
+            },
+            {
+              "file": "conf-noguchi-1.jpg",
+              "caption": "Noguchi Annual Research Meeting"
+            }
+          ]
+        },
+        {
+          "label": "Technology Week, KNUST — August 2025",
+          "photos": [
+            {
+              "file": "conf-techweek-poster.jpg",
+              "caption": "Presenting the digital stethoscope poster"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Leadership",
+      "note": "Ghana Engineering Students Association, Biomedical Engineering Students Society, and public speaking.",
+      "groups": [
+        {
+          "label": "",
+          "photos": [
+            {
+              "file": "lead-gesa-appointment.jpg",
+              "caption": "Appointment as Academic Head, Ghana Engineering Students Association"
+            },
+            {
+              "file": "lead-bmess-vp.jpg",
+              "caption": "Vice President, Biomedical Engineering Students Society"
+            },
+            {
+              "file": "lead-bmess-vp-2.jpg",
+              "caption": "Biomedical Engineering Students Society"
+            },
+            {
+              "file": "lead-bmess-nomination.jpg",
+              "caption": "BMESS vice-presidential nomination"
+            },
+            {
+              "file": "lead-communication.jpg",
+              "caption": "Leadership and communication"
+            },
+            {
+              "file": "lead-speaking-1.jpg",
+              "caption": "Public speaking"
+            },
+            {
+              "file": "lead-speaking-2.jpg",
+              "caption": "Public speaking"
+            },
+            {
+              "file": "lead-speaking-3.jpg",
+              "caption": "Presenting at KNUST Tek Smartest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Volunteering",
+      "note": "Engineers Without Borders–KNUST, the KNUST Photonics Student Chapter, and peer counselling.",
+      "groups": [
+        {
+          "label": "Engineers Without Borders – KNUST",
+          "photos": [
+            {
+              "file": "vol-ewb-isu-1.jpg",
+              "caption": "Clinic project with Iowa State University"
+            },
+            {
+              "file": "vol-ewb-isu-2.jpg",
+              "caption": "Clinic project with Iowa State University"
+            },
+            {
+              "file": "vol-ewb-isu-3.jpg",
+              "caption": "Clinic project with Iowa State University"
+            },
+            {
+              "file": "vol-ewb-isu-4.jpg",
+              "caption": "Clinic project with Iowa State University"
+            },
+            {
+              "file": "vol-ewb-1.jpg",
+              "caption": "Engineers Without Borders–KNUST"
+            },
+            {
+              "file": "vol-ewb-cleanup.jpg",
+              "caption": "Community clean-up exercise"
+            },
+            {
+              "file": "vol-circular-economy-1.jpg",
+              "caption": "Circular Economy Project"
+            },
+            {
+              "file": "vol-circular-economy-2.jpg",
+              "caption": "Circular Economy Project"
+            }
+          ]
+        },
+        {
+          "label": "KNUST Photonics Student Chapter",
+          "photos": [
+            {
+              "file": "vol-photonics-outreach-1.jpg",
+              "caption": "Photonics outreach"
+            },
+            {
+              "file": "vol-photonics-outreach-2.jpg",
+              "caption": "Photonics outreach"
+            },
+            {
+              "file": "vol-photonics-vr.jpg",
+              "caption": "Student training on VR"
+            }
+          ]
+        },
+        {
+          "label": "Peer counselling",
+          "photos": [
+            {
+              "file": "vol-peer-counsellor-1.jpg",
+              "caption": "Peer counselling"
+            },
+            {
+              "file": "vol-peer-counsellor-2.jpg",
+              "caption": "Peer counselling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Awards",
+      "note": "",
+      "groups": [
+        {
+          "label": "",
+          "photos": [
+            {
+              "file": "award-graduation.jpg",
+              "caption": "Graduation, KNUST — Valedictorian, Department of Computer Engineering"
+            },
+            {
+              "file": "award-best-graduating.jpg",
+              "caption": "Best Graduating Biomedical Engineering Student"
+            },
+            {
+              "file": "award-provost-best.jpg",
+              "caption": "Best Student, College of Engineering Provost Award"
+            },
+            {
+              "file": "award-provost-excellent.jpg",
+              "caption": "Excellent Student, College of Engineering Provost Award"
+            },
+            {
+              "file": "award-best-year1.jpg",
+              "caption": "Best First Year Biomedical Engineering Student"
+            },
+            {
+              "file": "award-best-year2.jpg",
+              "caption": "Best Second Year Biomedical Engineering Student"
+            },
+            {
+              "file": "award-best-year3.jpg",
+              "caption": "Best Third Year Biomedical Engineering Student"
+            },
+            {
+              "file": "award-gas-challenge-1.jpg",
+              "caption": "Winner, Ghana National Gas Challenge"
+            },
+            {
+              "file": "award-gas-challenge-2.jpg",
+              "caption": "Winner, Ghana National Gas Challenge"
+            },
+            {
+              "file": "award-gas-challenge-cert.jpg",
+              "caption": "Ghana National Gas Challenge certificate"
+            },
+            {
+              "file": "award-tek-smartest-1.jpg",
+              "caption": "KNUST Tek Smartest"
+            },
+            {
+              "file": "award-tek-smartest-2.jpg",
+              "caption": "Winning KNUST Tek Smartest as team lead"
+            },
+            {
+              "file": "award-science-olympiad.jpg",
+              "caption": "Winner, Second Ghana Science Olympiad"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

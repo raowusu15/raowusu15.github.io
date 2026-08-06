@@ -1,0 +1,21 @@
+{
+  "_comment": "Fallback list; used only when the GitHub API is unreachable.",
+  "items": [
+    {
+      "name": "WATMSP",
+      "url": "https://github.com/raowusu15",
+      "description": "West African Traditional Medicine Systems Pharmacology — open-access platform.",
+      "language": "Python",
+      "stars": 0,
+      "updated": ""
+    },
+    {
+      "name": "raowusu15.github.io",
+      "url": "https://github.com/raowusu15",
+      "description": "This site.",
+      "language": "HTML",
+      "stars": 0,
+      "updated": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_comment": "Add an object per publication. 'year' groups the list; omit it for 'In preparation'.",
+  "items": [
+    {
+      "title": "Beyond Dice: Evaluating Reliability and Robustness in Breast Ultrasound Lesion Segmentation Under Progressive Speckle Corruption",
+      "authors": "Co-authored — see the submission for the full author list",
+      "venue": "Submitted to the MICCAI 2026 MIRASOL Workshop",
+      "year": 2026,
+      "summary": "Benchmarks U-Net, Attention U-Net, TransUNet and SegFormer-B0 for breast ultrasound lesion segmentation under progressive speckle corruption, and applies Monte Carlo Dropout for predictive uncertainty and model reliability assessment.",
+      "status": "Under review",
+      "links": [
+        {
+          "label": "Submission",
+          "url": "../assets/img/pub-mirasol-submission.jpg"
+        }
+      ]
+    },
+    {
+      "title": "West African Traditional Medicine Systems Pharmacology (WATMSP) Platform",
+      "authors": "R. A. Owusu et al.",
+      "venue": "Manuscript in preparation",
+      "summary": "An open-access platform integrating phytochemical, molecular, target, ADMET, ethnomedicinal and therapeutic indication data for West African medicinal plants.",
+      "status": "In preparation",
+      "links": []
+    }
+  ]
+}
