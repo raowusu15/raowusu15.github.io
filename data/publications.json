@@ -22,6 +22,24 @@
       "summary": "An open-access platform integrating phytochemical, molecular, target, ADMET, ethnomedicinal and therapeutic indication data for West African medicinal plants.",
       "status": "In preparation",
       "links": []
+    },
+    {
+      "title": "YOUR EXACT THESIS TITLE",
+      "authors": "Robert Afiakwa Owusu",
+      "venue": "B.Sc. Biomedical Engineering Thesis, KNUST",
+      "year": 2025,
+      "summary": "Undergraduate thesis focused on the design and development of a low-cost wireless digital stethoscope for biomedical signal acquisition and remote auscultation.",
+      "status": "Undergraduate Thesis",
+      "links": [
+        {
+          "label": "Thesis PDF",
+          "url": "../files/thesis/Robert_Afiakwa_Owusu_Undergraduate_Thesis.pdf"
+        },
+        {
+          "label": "GitHub Repository",
+          "url": "YOUR_THESIS_REPOSITORY_URL"
+        }
+      ]
     }
   ]
 }
