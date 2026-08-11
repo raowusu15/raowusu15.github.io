@@ -92,8 +92,7 @@
         <div class="rarea__img"><img src="../assets/img/research-optics.jpg" alt="Optics and photonics" loading="lazy"></div>
         <div class="rarea__body">
           <h3>Optics and Photonics</h3>
-          <p>Biomedical optics and optical imaging. Optica Amplify Immersion Program scholar; teaching
-            assistant for biomedical optics at KNUST.</p>
+          <p>Exploring optical and photonic methods for biomedical imaging, sensing, spectroscopy, and non-invasive diagnostics, with an interest in how light–tissue interactions can support disease detection and physiological monitoring..</p>
         </div>
       </article>
 
@@ -105,50 +104,99 @@
     <p style="font-size:.93rem;color:#7a8288;margin:-.2rem 0 1.4rem;">These are the two areas I am
       currently working in.</p>
 
-    <section class="active-block">
-      <div class="active-block__img">
-        <img src="../assets/img/research-cadd.jpg" alt="Protein&ndash;ligand interaction analysis" loading="lazy">
-      </div>
-      <div class="active-block__body">
-        <h3>Computer-Aided Drug Discovery</h3>
-        <p class="active-block__lede">Systems pharmacology, structure-based virtual screening and
-          computational toxicology, with an emphasis on natural products from West African medicinal plants.</p>
-        <ul class="work-list">
-          <li><strong>West African Traditional Medicine Systems Pharmacology (WATMSP) platform.</strong>
-            Building an open-access platform that integrates phytochemical, molecular, target, ADMET,
-            ethnomedicinal and therapeutic indication data for West African medicinal plants.
-            <span class="work-meta">KCCR &middot; manuscript in preparation</span></li>
+  <section class="active-block">
 
-          <li><strong>Cardiotoxicity prediction and molecular docking.</strong>
-            Machine-learning and LLM-assisted workflows evaluating bioactive molecules across hERG,
-            Na<sub>v</sub>1.5 and Ca<sub>v</sub>1.2 endpoints, with molecular docking and
-            protein&ndash;ligand interaction analysis.
-            <span class="work-meta">KCCR &middot; ongoing</span></li>
+  <div class="active-block__img">
+    <img src="../assets/img/research-cadd.jpg"
+         alt="Computer-aided drug discovery and molecular modelling"
+         loading="lazy">
+  </div>
 
-          <li><strong>ACE-targeted antihypertensive drug discovery.</strong>
-            Curating and standardising ACE bioactivity records from ChEMBL and PubChem for
-            machine-learning, ligand-based modelling and lead prioritisation.
-            <span class="work-meta">KCCR &middot; ongoing</span></li>
+  <div class="active-block__body">
 
-          <li><strong>Structure-based virtual screening of NDM-1 inhibitors.</strong>
-            A PyRx/AutoDock Vina workflow to screen candidate NDM-1 inhibitors and characterise
-            active-site, metal-coordination and protein&ndash;ligand interactions using PyMOL and
-            BIOVIA Discovery Studio.
-            <span class="work-meta">Mar &ndash; Apr 2026</span></li>
+    <h3>Computer-Aided Drug Discovery &amp; Computational Biology</h3>
 
-          <li><strong>Molecular modelling and dynamics of KRAS G12D inhibitors.</strong>
-            Comparing candidate and reference inhibitors through docking and residue-level interaction
-            profiling, and preparing complexes for molecular dynamics and trajectory-based stability
-            analysis.
-            <span class="work-meta">Jul 2026 &ndash; present</span></li>
+    <p class="active-block__lede">
+      Computational approaches to therapeutic discovery, with interests in
+      molecular docking, virtual screening, systems pharmacology, drug-safety
+      prediction, protein structure modelling and molecular simulation.
+    </p>
 
-          <li><strong>Training: The InSilico Lab &mdash; Computer-Aided Drug Design.</strong>
-            Structure-based drug design, molecular docking, ADMET and AI-assisted modelling.
-            <span class="work-meta">Jun &ndash; Jul 2026 &middot;
-              <a href="../assets/img/training-insilico-cert.jpg" target="_blank">certificate</a></span></li>
-        </ul>
-      </div>
-    </section>
+    <ul class="work-list">
+
+      <li>
+        <strong>West African Traditional Medicine Systems Pharmacology
+        (WATMSP) platform.</strong>
+        Leading the development of an AI-enabled systems pharmacology platform
+        integrating phytochemical, molecular, protein-target, disease, ADMET,
+        ethnomedicinal and therapeutic-indication data for West African
+        medicinal plants.
+        <span class="work-meta">GHAiC-K, KCCR &middot; manuscript in preparation</span>
+      </li>
+
+      <li>
+        <strong>Machine-learning cardiotoxicity screening of West African
+        medicinal-plant compounds.</strong>
+        Developing and evaluating predictive models for hERG,
+        Na<sub>v</sub>1.5 and Ca<sub>v</sub>1.2 ion-channel liabilities and
+        applying them to screen phytochemicals for potential cardiac safety
+        risks.
+        <span class="work-meta">GHAiC-K, KCCR &middot; ongoing</span>
+      </li>
+
+      <li>
+        <strong>ACE-targeted antihypertensive drug discovery.</strong>
+        Curating and standardising ACE bioactivity records from ChEMBL and
+        PubChem to support machine-learning model development, ligand-based
+        analysis and computational lead prioritisation.
+        <span class="work-meta">GHAiC-K, KCCR &middot; ongoing</span>
+      </li>
+
+      <li>
+        <strong>Validation-gated structure-based screening of
+        <em>Plasmodium falciparum</em> DHFR.</strong>
+        Developed a Meeko and AutoDock Vina docking workflow and validated the
+        protocol by reproducing the crystallographic WR99210 binding pose with
+        a heavy-atom RMSD of 1.51&nbsp;&Aring; before applying it to a
+        nine-compound virtual screen.
+        <span class="work-meta">Jun &ndash; Jul 2026 &middot;
+          <a href="https://github.com/raowusu15" target="_blank" rel="noopener">code</a></span>
+      </li>
+
+      <li>
+        <strong>AI-based protein structure prediction and structural
+        validation.</strong>
+        Predicted human dihydrofolate reductase using AlphaFold3 and evaluated
+        the predicted structure against experimental PDB structure 1U72 using
+        PyMOL, obtaining an RMSD of 0.375&nbsp;&Aring; across 186 aligned
+        residues.
+        <span class="work-meta">Jul &ndash; Aug 2026 &middot;
+          <a href="https://github.com/raowusu15" target="_blank" rel="noopener">code</a></span>
+      </li>
+
+      <li>
+        <strong>Molecular dynamics and computational biophysics.</strong>
+        Developing practical experience in molecular dynamics simulation using
+        GROMACS, including system preparation, force fields, energy
+        minimisation, equilibration and trajectory analysis for
+        protein&ndash;ligand systems.
+        <span class="work-meta">Introductory training &middot; ongoing</span>
+      </li>
+
+      <li>
+        <strong>Training: The InSilico Lab &mdash; Computer-Aided Drug Design.</strong>
+        Practical training in protein preparation, binding-site prediction,
+        molecular docking, protein&ndash;ligand interaction analysis, ADMET
+        assessment and AlphaFold3-based structure evaluation.
+        <span class="work-meta">Jun &ndash; Jul 2026 &middot;
+          <a href="../assets/img/training-insilico-cert.jpg" target="_blank" rel="noopener">certificate</a></span>
+      </li>
+
+    </ul>
+
+  </div>
+
+</section>
 
     <section class="active-block">
       <div class="active-block__img">
