@@ -24,8 +24,8 @@
       "links": []
     },
     {
-      "title": "YOUR EXACT THESIS TITLE",
-      "authors": "Robert Afiakwa Owusu",
+      "title": "DESIGN AND DEVELOPMENT OF A LOW-COST WIRELESS DIGITAL STETHOSCOPE FOR BIOMEDICAL SIGNAL ACQUISITION AND REMOTE AUSCULTATION",
+      "authors": "Robert Afiakwa Owusu,Dennis Ankomah, Esther Makafui",
       "venue": "B.Sc. Biomedical Engineering Thesis, KNUST",
       "year": 2025,
       "summary": "Undergraduate thesis focused on the design and development of a low-cost wireless digital stethoscope for biomedical signal acquisition and remote auscultation.",
@@ -37,7 +37,7 @@
         },
         {
           "label": "GitHub Repository",
-          "url": "YOUR_THESIS_REPOSITORY_URL"
+          "url": "https://github.com/raowusu15/Native-Android-Stethoscope-app"
         }
       ]
     }
