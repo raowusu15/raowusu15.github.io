@@ -24,6 +24,19 @@
       "links": []
     },
     {
+      "title": "Artificial Intelligence Models for Predicting Outcomes of Lung Pathologies: A Review",
+      "authors": "R. A. Owusu, D. A. Addo",
+      "venue": "Manuscript",
+      "summary": "A review of machine-learning and artificial-intelligence models applied to the prediction of lung-pathology outcomes, examining model performance, interpretability, generalizability and dataset limitations across biomedical studies.",
+      "status": "Manuscript",
+      "links": [
+        {
+          "label": "Read manuscript",
+          "url": "../files/manuscripts/AI_Lung_Pathologies_Manuscript.pdf"
+        }
+      ]
+    },
+    {
       "title": "DESIGN AND DEVELOPMENT OF A LOW-COST WIRELESS DIGITAL STETHOSCOPE FOR CLINICAL USE IN GHANA",
       "authors": "Robert Afiakwa Owusu,Dennis Ankomah, Esther Makafui",
       "venue": "B.Sc. Biomedical Engineering Thesis, KNUST",
