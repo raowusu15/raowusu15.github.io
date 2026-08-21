@@ -7,7 +7,7 @@
       "venue": "Submitted to the MICCAI 2026 MIRASOL Workshop",
       "year": 2026,
       "summary": "Benchmarks U-Net, Attention U-Net, TransUNet and SegFormer-B0 for breast ultrasound lesion segmentation under progressive speckle corruption, and applies Monte Carlo Dropout for predictive uncertainty and model reliability assessment.",
-      "status": "Under review",
+      "status": "Accepted",
       "links": [
         {
           "label": "Submission",
@@ -36,23 +36,25 @@
         }
       ]
     },
+ {
+  "title": "DESIGN AND DEVELOPMENT OF A LOW-COST WIRELESS DIGITAL STETHOSCOPE FOR CLINICAL USE IN GHANA",
+  "authors": "Robert Afiakwa Owusu, Dennis Ankomah, Esther Makafui",
+  "venue": "B.Sc. Biomedical Engineering Thesis, KNUST",
+  "year": 2025,
+  "summary": "Undergraduate thesis focused on the design and development of a low-cost wireless digital stethoscope for biomedical signal acquisition and remote auscultation.",
+  "status": "Undergraduate Thesis",
+  "links": [
     {
-      "title": "DESIGN AND DEVELOPMENT OF A LOW-COST WIRELESS DIGITAL STETHOSCOPE FOR CLINICAL USE IN GHANA",
-      "authors": "Robert Afiakwa Owusu,Dennis Ankomah, Esther Makafui",
-      "venue": "B.Sc. Biomedical Engineering Thesis, KNUST",
-      "year": 2025,
-      "summary": "Undergraduate thesis focused on the design and development of a low-cost wireless digital stethoscope for biomedical signal acquisition and remote auscultation.",
-      "status": "Undergraduate Thesis",
-      "links": [
-        {
-          "label": "Thesis PDF",
-          "url": "https://drive.google.com/drive/folders/19aljouOz6MIUgDTioegpDDW4t9TvjBe2.pdf"
-        },
-        {
-          "label": "GitHub Repository",
-          "url": "https://github.com/raowusu15/Native-Android-Stethoscope-app"
-        }
-      ]
+      "label": "Thesis (Google Docs)",
+      "url": "https://docs.google.com/document/d/19b-R02JqHv9TJfkC0D1rgSsgmsr28qCK/edit?usp=drive_link"
+    },
+    {
+      "label": "Demo video",
+      "url": "https://drive.google.com/file/d/19em0nPa-tY2H5T2FM3nkZEOhBYma2OUt/view"
+    },
+    {
+      "label": "GitHub Repository",
+      "url": "https://github.com/raowusu15/Native-Android-Stethoscope-app"
     }
   ]
 }
